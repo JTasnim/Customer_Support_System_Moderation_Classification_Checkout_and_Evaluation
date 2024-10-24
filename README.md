@@ -39,14 +39,14 @@ Install dependencies:
 ```bash
 pip install openai
 export OPENAI_API_KEY="your-api-key-here"
+```
 
-##  Testing
+## Testing
+
 - The system was tested using multiple real-world scenarios, including:
   - Prompt injections
   - Product recommendations
   - Sentiment analysis
-
-
 
 # Screenshot of execution results
 
@@ -61,4 +61,3 @@ export OPENAI_API_KEY="your-api-key-here"
 # To learn more
 
 [Google Slide](./assets/Customer_Support_System_Moderation_Classification_Evaluation.pptx)
-```
